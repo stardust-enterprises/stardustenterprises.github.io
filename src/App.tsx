@@ -29,11 +29,6 @@ function App() {
             </a>
           </li>
         </ul>
-
-        <span className="hint">
-          psst! this website is <b>also</b> open-source! you can browse its
-          code <a href="/source" target="_blank" rel="noopener noreferrer">here</a>.
-        </span>
       </header>
     </div>
   );
